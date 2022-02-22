@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_605" data-name="Group 605" transform="translate(-33 -350)">
+    <path id="Bg" d="M15,0A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" transform="translate(33 350)" fill="#f1faee"/>
+    <path id="Icon_open-account-logout" data-name="Icon open-account-logout" d="M3.75,0V1.25h5V7.5h-5V8.75H10V0ZM2.5,2.5,0,4.375,2.5,6.25V5h5V3.75h-5Z" transform="translate(43 360.625)" fill="#e63946"/>
+  </g>
+</svg>
