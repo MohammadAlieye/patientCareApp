@@ -68,7 +68,7 @@ class _AlarmScreenState extends State<AlarmScreen> {
               scrollDirection: Axis.vertical,
               shrinkWrap: true,
               itemCount: alarmsList.length,
-              itemBuilder: (Context, index) {
+              itemBuilder: (context, index) {
                 return GestureDetector(
                   onTap: () {
                     setState(() {
